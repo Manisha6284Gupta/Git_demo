@@ -1,2 +1,2 @@
 # Git_demo
-Author: Navjot Kaur
+Author: Navjot Karkhal
